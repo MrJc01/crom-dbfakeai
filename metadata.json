@@ -1,0 +1,5 @@
+{
+  "name": "AI Data Generator",
+  "description": "Generate mock database records using AI based on a schema and instructions.",
+  "requestFramePermissions": []
+}
